@@ -32,6 +32,9 @@ In addition to, I also developed a REST JSON API. Though the data we retrieved w
 
 API connects with Amazon and HUKD servers and retrieve data for from both and after having a comparison of products on the basis of prices price different is also returned by the API. If We pass API id=1 then it will just simply return data  in JSON format but if we send 2 in id parameter it will return a difference of prices between the two API's.
 
+Furthermore, the Amazon api url needs to be refreshed from its dashboard after a specific number of refreshes.
+
+
 Directory Structure of Project
 
 hussein
